@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  common-service:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-11-02T20:34:56.289307232+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 83200bfa7d6524e6fdfde1c9ef4c6b20a0a8abe5f3fd8e8ece66b2592ff17d18
+    name: common-service
+    type: application
+    urls:
+    - https://multifeed.github.io/helm-charts/common-service-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-11-02T20:34:56.287897661+03:00"
